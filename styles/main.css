@@ -1,0 +1,29 @@
+html {
+    background-image: url('https://kaypark.com/wp-content/uploads/2018/04/AmericanFlag.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bio_info {
+    font-family: cursive;
+    display: inline-flex;
+    flex-flow: column wrap;
+    background-color: navajowhite;
+    align-items: center;
+    font-size: 20px;
+}
+.assigned_committees {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    background-color: ivory;
+    height: 100px;
+}
+.supported_bills {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    background-color: ivory;
+    height: 250px;
+}
